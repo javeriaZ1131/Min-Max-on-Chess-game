@@ -3,6 +3,8 @@ This is an artificial intelligence related project in which we have to develped 
 
 According to the Min Max Algorithm,
 
+the max(player) try to maximize its utility which leads him to the wining position but the min(opponent) try to minimize the utility of the player sothat the utlity of the opponent increases and thus increases the chances of wining game and vice versa.
+
 
 
 The implementation of Min max algorithm is in cpp and header files named Coding_wizards.
